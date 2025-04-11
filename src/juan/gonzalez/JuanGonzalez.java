@@ -1,4 +1,4 @@
-package JuanGonzalez;
+package juan.gonzalez;
 
 public class JuanGonzalez {
 
